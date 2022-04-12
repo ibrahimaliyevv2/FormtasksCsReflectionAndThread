@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\ReflectionTask\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.genruntimeconfig.cache

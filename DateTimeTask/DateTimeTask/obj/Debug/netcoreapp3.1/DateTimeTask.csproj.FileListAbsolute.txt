@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\bin\Debug\netcoreapp3.1\DateTimeTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\DateTimeTask\DateTimeTask\obj\Debug\netcoreapp3.1\DateTimeTask.genruntimeconfig.cache

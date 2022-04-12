@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\bin\Debug\netcoreapp3.1\NewFileTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsReflectionAndThread\NewFileTask\NewFileTask\obj\Debug\netcoreapp3.1\NewFileTask.genruntimeconfig.cache
