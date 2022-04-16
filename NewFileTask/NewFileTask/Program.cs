@@ -33,7 +33,7 @@ namespace NewFileTask
                     case 'n':
                         foreach (var item in dirInfo.GetFiles())
                         {
-                                Console.WriteLine(item.Name);
+                                Console.WriteLine(item.Name + " " + item.CreationTime);
                         }
                         break;
                     default:
